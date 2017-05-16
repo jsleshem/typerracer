@@ -1,7 +1,6 @@
 To run:
 Make sure that you have the following installation on your computer
 ```
-#!bash
 PHP
 Laravel 5
 Composer (Optional, but Reccomended)
@@ -11,17 +10,14 @@ Apache (Make sure apache is sercing where the site is being hosted)
 
 To start:
 ```
-#!bash
 cd dev_development
 ```
 Then type:
 ```
-#!bash
 php -S localhost:8000 -t public
 ```
 That will let you select your port if port 8000 is not free. However, if the port is free, then type:
 ```
-#!bash
 php artisan serve
 ```
 After, go to localhost:8000 in your browser (we recommend chrome), and have fun!!!
