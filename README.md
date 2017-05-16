@@ -1,3 +1,14 @@
+To run:
+Make sure that you have the following installation on your computer
+```
+#!bash
+PHP
+Laravel 5
+Composer (Optional, but Reccomended)
+mySQL (or mariaDB)
+Apache (Make sure apache is sercing where the site is being hosted)
+```
+
 To start:
 ```
 #!bash
