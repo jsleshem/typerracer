@@ -1,0 +1,33 @@
+Gennaro Olivo & Jack Leshem - CSE330 Creative Project Rubric
+Typeracing Website
+
+5pts: Submitting rubric to Bitbucket on time
+20pts: Creative portion
+	UPDATE: HERE IS WHAT WE HAVE FOR CREATIVE POTION:
+			Remove Vulgar titles
+			Cheating Detection
+			Commend Button
+			Automatic time-tracking
+2pts: Laravel running on instance
+3pts: Users can make accounts, login, and logout
+2pts: passwords are hashed
+3pts: a new session is created when user logs in
+3pts: Usernames and passwords stored in database
+3pts: Site comes with default set of sentences/passages to type
+3pts: User manually starts and stops type timing
+10pts: User gets report of accuracy, wpm, and rank among other users
+3pts: After a round, user's run stats are stored in database
+10pts: leaderboard is displayed showing username, best wpm after finishing typing a passage
+10pts: users can contribute passages
+	-passages have names
+	-passages have content
+	-leading/trailing white space has been removed
+10pts: php Laravel
+	8pts: Completed tutorial
+	2pts: General Fluency in laravel
+10pts: Can view other users
+	3pts: Profile Picture
+	3pts: Bio
+	4pts: Stats 
+3pts: Code is well formatted and easy to read, with proper commenting
+2pts: All pages pass W3C validator
